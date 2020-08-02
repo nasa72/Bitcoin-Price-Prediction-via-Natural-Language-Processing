@@ -29,7 +29,12 @@
 - Train and test the model
 ### 4. Findings
 ![Results](https://github.com/yunhe1/Bitcoin-Price-Prediction-via-Natural-Language-Processing/blob/master/LSTM%20predition.png)
+:--:
+*Prediction Result*
 
-- The prediction has been completed with high accuracy.
+- The prediction has been completed with a high accuracy.
 - There is a correlation between the bitcoin price variation and tweet sentiments of influencers.
 - Future Bitcoing price changes may be predictable with influencer Twitter posts.
+
+### 5. Difficulties and Recommendations
+- 
