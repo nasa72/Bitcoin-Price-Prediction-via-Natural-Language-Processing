@@ -28,7 +28,7 @@
 - Build LSTM layer with 128 internal units and a dense layer with 1 unit.
 - Train and test the model
 ### 4. Findings
-![Results](C:/Users/jinny/Desktop/LSTM prediction.jpg)
+![Results](https://github.com/yunhe1/Bitcoin-Price-Prediction-via-Natural-Language-Processing/blob/master/LSTM%20predition.png)
 
 - The prediction has been completed with high accuracy.
 - There is a correlation between the bitcoin price variation and tweet sentiments of influencers.
