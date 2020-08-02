@@ -36,5 +36,6 @@
 - There is a correlation between the bitcoin price variation and tweet sentiments of influencers.
 - Future Bitcoing price changes may be predictable with influencer Twitter posts.
 
-### 5. Difficulties and Recommendations
-- 
+### 5. Rooms for Improvement
+- **Still remaining advertisements:** Since there were many advertisements tweets we were not able to delete all of them. It might be positively or negatively affect the model or the final prediction. They aslo could cause errors. In order to remove as many ads as possible, more time should be invested in the preprocessing process.
+- **Use of textblob_sent library:** We used Textblob library to calculate sentiment of tweets since we didn't have enough time. However, our original plan was that cluster vectorised tweets using k-means clustering in order to cluster tweets with a higher accuracy. However, due to the time limiit, we could not stick with this plan. If we had used this method, we might have had another result. 
